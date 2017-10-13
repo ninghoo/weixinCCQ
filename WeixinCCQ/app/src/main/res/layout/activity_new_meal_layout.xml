@@ -94,7 +94,7 @@
                 android:gravity="center"
                 android:layout_gravity="center_vertical"
                 android:textColor="#252525"
-                android:text="附近有啥"
+                android:text="就近吃喝"
                 android:fontFamily="sans-serif-condensed"
                 android:textSize="15.5dp"/>
 
@@ -124,6 +124,7 @@
                 android:background="#e1e1e1"/>
 
             <Button
+                android:id="@+id/pop_up_window"
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="0dp"
@@ -132,7 +133,7 @@
                 android:gravity="center"
                 android:layout_gravity="center_vertical"
                 android:textColor="#252525"
-                android:text="会员福利"
+                android:text="福利多多"
                 android:fontFamily="sans-serif-condensed"
                 android:textSize="15.5dp"/>
 

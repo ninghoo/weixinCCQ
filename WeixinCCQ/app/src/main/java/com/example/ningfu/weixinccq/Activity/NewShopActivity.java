@@ -27,6 +27,16 @@ public class NewShopActivity extends CommonActivity  implements View.OnClickList
     }
 
     @Override
+    protected void bindView() {
+
+    }
+
+    @Override
+    protected void bindData() {
+
+    }
+
+    @Override
     public void onClick(View v)
     {
 

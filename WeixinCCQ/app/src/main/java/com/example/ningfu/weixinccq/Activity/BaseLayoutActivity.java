@@ -27,6 +27,16 @@ public class BaseLayoutActivity extends CommonActivity implements View.OnClickLi
     }
 
     @Override
+    protected void bindView() {
+
+    }
+
+    @Override
+    protected void bindData() {
+
+    }
+
+    @Override
     public void onClick(View v)
     {
 
